@@ -1,2 +1,2 @@
 # texto
-Textos
+Texto
